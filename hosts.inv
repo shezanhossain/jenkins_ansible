@@ -1,0 +1,5 @@
+# Enter the hosts or devices for Ansible playbooks
+# sw1 ansible_user=shezan ansible_password=cisco ansible_host=192.168.122.5 ansible_network_os=exos
+
+[sw1]
+192.168.122.5
